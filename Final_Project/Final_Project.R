@@ -1,0 +1,10 @@
+# Load installed packages
+library('RColorBrewer')
+library('lattice')
+library('gridExtra')
+library('fBasics')
+library('ggplot2')
+library('reshape2')
+library('caret')
+library('e1071')
+library('rpart')
